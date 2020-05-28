@@ -9,3 +9,6 @@ Putting quoatation marks around quotes, that have a comma in them.
 ## Technologies
 - Bs4
 - csv reader
+
+## ToDo
+- [ ] get more Hufflepuff quotes
