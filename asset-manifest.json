@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/who-said-that/static/js/main.5716b6a2.chunk.js",
+    "main.js.map": "/who-said-that/static/js/main.5716b6a2.chunk.js.map",
+    "runtime-main.js": "/who-said-that/static/js/runtime-main.b46e509d.js",
+    "runtime-main.js.map": "/who-said-that/static/js/runtime-main.b46e509d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/who-said-that/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.630bf406.chunk.js": "/who-said-that/static/js/2.630bf406.chunk.js",
+    "static/js/2.630bf406.chunk.js.map": "/who-said-that/static/js/2.630bf406.chunk.js.map",
+    "index.html": "/who-said-that/index.html",
+    "precache-manifest.03bd05d024a98627104fbdb545cc7416.js": "/who-said-that/precache-manifest.03bd05d024a98627104fbdb545cc7416.js",
+    "service-worker.js": "/who-said-that/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/who-said-that/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.630bf406.chunk.js.LICENSE.txt": "/who-said-that/static/js/2.630bf406.chunk.js.LICENSE.txt",
+    "static/media/gryffindor.svg": "/who-said-that/static/media/gryffindor.2737bcbb.svg",
+    "static/media/happy.svg": "/who-said-that/static/media/happy.56338380.svg",
+    "static/media/hufflepuff.svg": "/who-said-that/static/media/hufflepuff.41465dbe.svg",
+    "static/media/map2.jpg": "/who-said-that/static/media/map2.a04fba1c.jpg",
+    "static/media/ravenclaw.svg": "/who-said-that/static/media/ravenclaw.a8316eee.svg",
+    "static/media/sad.svg": "/who-said-that/static/media/sad.a704d0d3.svg",
+    "static/media/slytherin.svg": "/who-said-that/static/media/slytherin.1d2ca64f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b46e509d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.630bf406.chunk.js",
+    "static/js/main.5716b6a2.chunk.js"
+  ]
+}
