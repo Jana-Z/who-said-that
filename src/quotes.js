@@ -25,7 +25,7 @@ export var quotes = [
       house: 'Gryffindor'
     },
     {
-      quote: 'You think the dead we loved truly ever leave us? You think that we don’t recall them more clearly in times of great trouble? A',
+      quote: 'You think the dead we loved truly ever leave us? You think that we don’t recall them more clearly in times of great trouble?',
       author: 'Albus Dumbledore',
       house: 'Gryffindor'
     },
@@ -80,7 +80,7 @@ export var quotes = [
       house: 'Gryffindor'
     },
     {
-      quote: 'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals',
+      quote: 'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.',
       author: 'Sirius Black',
       house: 'Gryffindor'
     },
@@ -110,7 +110,7 @@ export var quotes = [
       house: 'Gryffindor'
     },
     {
-      quote: 'Oh, well…I’d just been thinking…if you had died, you’d have been welcome to share my toilet,',
+      quote: 'Oh, well … I’d just been thinking … if you had died, you’d have been welcome to share my toilet.',
       author: 'Myrtle Warren',
       house: 'Ravenclaw'
     },
@@ -130,7 +130,7 @@ export var quotes = [
       house: 'Gryffindor'
     },
     {
-      quote: 'Anyone can speak Troll, All you have to do is point and grunt.',
+      quote: 'Anyone can speak Troll, all you have to do is point and grunt.',
       author: 'Fred Weasley',
       house: 'Gryffindor'
     },
@@ -160,7 +160,7 @@ export var quotes = [
       house: 'Gryffindor'
     },
     {
-      quote: 'We must try not to sink beneath our anguish…but battle on.',
+      quote: 'We must try not to sink beneath our anguish … but battle on.',
       author: 'Albus Dumbledore',
       house: 'Gryffindor'
     },
